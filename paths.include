@@ -1,0 +1,9 @@
+BUILD_EXTENSIONS_PATH=/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/Extensions/Build
+UPLOAD_EXTENSIONS_PATH=/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/Extensions/Upload
+SOURCE_DIR=/Users/xanderrasschaert/Desktop/SwiftForArduino/LedCube
+EXPORT_MODULE_DIRECTORY=/Users/xanderrasschaert/Documents/SwiftForArduino/Exports
+EXTENSION_MODULES_DIRECTORY=/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/Extensions/Modules
+SCRIPTDIR=/Applications/Swift For Arduino.app/Contents/XPCServices/BuildEngine.xpc/Contents/Resources
+MODULE_LINK_DIRECTORIES=-L"/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/S4A/146/Modules" -L"/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/Extensions/Modules" -L"/Users/xanderrasschaert/Documents/SwiftForArduino/Exports"
+MODULE_INCLUDE_DIRECTORIES=-I"/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/S4A/146/Modules" -I"/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/Extensions/Modules" -I"/Users/xanderrasschaert/Documents/SwiftForArduino/Exports"
+CPP_EXTRA_IMPORTS=-I"/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/S4A/146/Modules/Arduino"

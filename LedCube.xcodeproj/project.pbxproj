@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		8BF787EC29B9CBBF00750549 /* LedCube.swift4p */ = {isa = PBXFileReference; lastKnownFileType = text; path = LedCube.swift4p; sourceTree = "<group>"; };
+		8BF787ED29B9CBBF00750549 /* LedCube.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LedCube.swift; sourceTree = "<group>"; };
+		8BF787EE29B9CBBF00750549 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		8BF787E529B9CB9B00750549 = {
+			isa = PBXGroup;
+			children = (
+				8BF787ED29B9CBBF00750549 /* LedCube.swift */,
+				8BF787EC29B9CBBF00750549 /* LedCube.swift4p */,
+				8BF787EE29B9CBBF00750549 /* main.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		8BF787E629B9CB9B00750549 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+			};
+			buildConfigurationList = 8BF787E929B9CB9B00750549 /* Build configuration list for PBXProject "LedCube" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8BF787E529B9CB9B00750549;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		8BF787EA29B9CB9B00750549 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		8BF787EB29B9CB9B00750549 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8BF787E929B9CB9B00750549 /* Build configuration list for PBXProject "LedCube" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8BF787EA29B9CB9B00750549 /* Debug */,
+				8BF787EB29B9CB9B00750549 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8BF787E629B9CB9B00750549 /* Project object */;
+}

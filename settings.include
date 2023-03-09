@@ -1,0 +1,5 @@
+MAKE_TARGET=all
+ARDUINO_LIB_CLANG_OPTIONS=-DARDUINO=101 -I"/Users/xanderrasschaert/Library/Application Support/SwiftForArduino/S4A/146/Modules"
+SWIFT_RUNTIME_SCANNER=-Xfrontend -no-runtime-verify
+CPP_EXTRA_DEFINES=-DARDUINO=100
+SCAN_EXPORTS_FOR_MODULES=yes
